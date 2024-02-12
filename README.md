@@ -73,6 +73,7 @@ El siguiente código implementa un servidor HTTP básico utilizando métodos fun
 --> WINDOWS
 - Archivos :
 JS:
+
 ![image](https://github.com/MPulidoM/Taller3_AREP/assets/118181543/16479eea-9603-4db0-a669-defcc7d27cfd)
 
 CSS:
@@ -107,12 +108,40 @@ TXT:
 --> LINUX(Maquina Virtual Ubuntu)
 - Archivos :
 JS:
+
+![image](https://github.com/MPulidoM/Taller3_AREP/assets/118181543/2221d661-1bf4-431b-9371-165bd43c9057)
+
 CSS:
+
+![image](https://github.com/MPulidoM/Taller3_AREP/assets/118181543/9e0ffb2a-2cae-42af-b411-a21e9ee7b635)
+
 HTML:
+
+![image](https://github.com/MPulidoM/Taller3_AREP/assets/118181543/6966cc8c-324b-40f1-8a3e-d69efb38446c)
+
+
 JPG:
+
+![image](https://github.com/MPulidoM/Taller3_AREP/assets/118181543/6e2a964f-2da6-4a79-a374-f60a7f13d3e8)
+
 TXT:
+
+![image](https://github.com/MPulidoM/Taller3_AREP/assets/118181543/204858cb-c019-450b-8a62-312837055473)
+
+
 - PAGINAS:
+
+![image](https://github.com/MPulidoM/Taller3_AREP/assets/118181543/95cfc349-aa3c-41ff-abcf-8eae15d5aeb0)
+
+![image](https://github.com/MPulidoM/Taller3_AREP/assets/118181543/31a98025-170e-45e0-953c-12b99cad264b)
+
+
 - CON PARAMETROS:
+
+![image](https://github.com/MPulidoM/Taller3_AREP/assets/118181543/c7feea98-5c56-49d6-80b3-eeacf9337cfe)
+
+![image](https://github.com/MPulidoM/Taller3_AREP/assets/118181543/b9760bf7-3d9f-4099-ae26-2a90a248cc30)
+
 
 
 ## Construido con
